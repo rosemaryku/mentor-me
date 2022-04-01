@@ -4,20 +4,32 @@ Mentor Me is a web app designed to connect users with mentors who can assist wit
 
 My teammates for this project include Jaeyoung Kim (https://github.com/jaeykimmy) and Edwin Ly (https://github.com/digivolv)
 
-# Getting Started
+## Tech Stack
 
-1. Fork and clone repo to your local machine.
-2. Install dependencies with `npm install`
-3. Start the the client and server using `npm start`
-4. The browser should start in http://localhost:3000/
+- React.js
+- Node
+- Express
+- PostgreSQL
+- Material UI
+- React Chat Engine API
 
 # Demo
 
-Search Page
+## Homepage
 
-Be a Mentor
+![Login and Homepage](https://github.com/rosemaryku/mentor_me/blob/main/docs/homepage.gif?raw=true)
 
-Messages
+## Search Page
+
+![Searchpage](https://github.com/rosemaryku/mentor_me/blob/main/docs/search.gif?raw=true)
+
+## Be a Mentor
+
+![Be a Mentor](https://github.com/rosemaryku/mentor_me/blob/main/docs/be-a-mentor.gif?raw=true)
+
+## Messages
+
+![Live Messages](https://github.com/rosemaryku/mentor_me/blob/main/docs/messages.gif?raw=trues)
 
 # Dependencies
 
@@ -41,3 +53,10 @@ Messages
 - react-router-dom: ^6.2.2 or above
 - react-scripts: 5.0.0 or above
 - web-vitals: ^2.1.4 or above
+
+# Getting Started
+
+1. Fork and clone repo to your local machine.
+2. Install dependencies with `npm install`
+3. Start the the client and server using `npm start`
+4. The browser should start in http://localhost:3000/
